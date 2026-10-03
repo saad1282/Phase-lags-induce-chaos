@@ -1,6 +1,6 @@
-# Chaos-in-a-phase-oscillator-systems-with-higher-order-interactions-communities-and-phase-lags
+# Phase lags induce chaos in oscillator communities with higher-order interactions
 
-This file contains codes for Chaos in a phase oscillator systems with higher order interactions, communities, and phase lags. The files under this repository are:
+This file contains codes for Phase lags induce chaos in oscillator communities with higher-order interactions. The files under this repository are:
 
 1. timeseries_order_parameters: Generate timeseries of order parameters using complex or polar equations. This file generates Figs. 1, 2a, 2b, 2c, 5, 10
 2. Kuramoto_model_phaselags_simulation: Simulation of the Kuramoto model of phase lagged oscillator system. This file generates Figs 2d, 2e, 2f
